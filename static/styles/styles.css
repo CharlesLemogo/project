@@ -15,7 +15,7 @@ body{
     height: 500px;
     background: red;
     overflow: hidden;
-    background: url("4.jpg") no-repeat center / cover;
+    background: url("../images/4.jpg") no-repeat center / cover;
     border-radius: 10px;
     box-shadow: 5px 20px 50px #000;
 }

@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(212, 228, 241);
+}
+.main{
+    height: 35.5rem;
+}
+
+li{
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.pic{
+    border: 3px solid rgb(241, 236, 236);
+    max-width: 60px;
+    max-height: 60px;
+    border-radius: 50%;
+
+}
+
+.side{
+    height: 20rem;
+}
